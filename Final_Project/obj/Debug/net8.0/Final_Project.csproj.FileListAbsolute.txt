@@ -1,0 +1,14 @@
+C:\Users\ibnua\source\repos\Final_Project\Final_Project\bin\Debug\net8.0\Final_Project.exe
+C:\Users\ibnua\source\repos\Final_Project\Final_Project\bin\Debug\net8.0\Final_Project.deps.json
+C:\Users\ibnua\source\repos\Final_Project\Final_Project\bin\Debug\net8.0\Final_Project.runtimeconfig.json
+C:\Users\ibnua\source\repos\Final_Project\Final_Project\bin\Debug\net8.0\Final_Project.dll
+C:\Users\ibnua\source\repos\Final_Project\Final_Project\bin\Debug\net8.0\Final_Project.pdb
+C:\Users\ibnua\source\repos\Final_Project\Final_Project\obj\Debug\net8.0\Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibnua\source\repos\Final_Project\Final_Project\obj\Debug\net8.0\Final_Project.AssemblyInfoInputs.cache
+C:\Users\ibnua\source\repos\Final_Project\Final_Project\obj\Debug\net8.0\Final_Project.AssemblyInfo.cs
+C:\Users\ibnua\source\repos\Final_Project\Final_Project\obj\Debug\net8.0\Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\ibnua\source\repos\Final_Project\Final_Project\obj\Debug\net8.0\Final_Project.dll
+C:\Users\ibnua\source\repos\Final_Project\Final_Project\obj\Debug\net8.0\refint\Final_Project.dll
+C:\Users\ibnua\source\repos\Final_Project\Final_Project\obj\Debug\net8.0\Final_Project.pdb
+C:\Users\ibnua\source\repos\Final_Project\Final_Project\obj\Debug\net8.0\Final_Project.genruntimeconfig.cache
+C:\Users\ibnua\source\repos\Final_Project\Final_Project\obj\Debug\net8.0\ref\Final_Project.dll
